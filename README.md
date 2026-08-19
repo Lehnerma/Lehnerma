@@ -1,58 +1,81 @@
 <div align="center">
-  <img height="150" src="/Gemini_Generated_Image_lkjk94lkjk94lkjk.jpeg"  />
-</div>
 
-###
+```
+██████╗  █████╗ ██╗  ██╗██╗███╗   ███╗██╗██╗     ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔══██╗╚██╗██╔╝██║████╗ ████║██║██║     ██║██╔══██╗████╗  ██║
+██╔██╔╝ ███████║ ╚███╔╝ ██║██╔████╔██║██║██║     ██║███████║██╔██╗ ██║
+██║╚██╗ ██╔══██║ ██╔██╗ ██║██║╚██╔╝██║██║██║     ██║██╔══██║██║╚██╗██║
+██║ ╚██╗██║  ██║██╔╝ ██╗██║██║ ╚═╝ ██║██║███████╗██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+### `> MAXIMILIAN LEHNER_`
+#### `>> FRONTEND DEV // BACKEND IN TRAINING  <<`
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=D90000&center=true&vCenter=true&width=600&lines=INSERT+COIN+TO+CONTINUE...;LOADING+BACKEND+SKILLS...;PLAYER+ONE%3A+READY)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-8DB355?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=FFEA93)](https://www.linkedin.com/in/maximilian-lehner-7744a2276/)
+</div>
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+
+```
+┌──────────────────────────────────────────────┐
+   │ P1 SKILLS ▸ FRONTEND                            │
+└──────────────────────────────────────────────┘
+```
+
+![HTML5](https://img.shields.io/badge/HTML6-D90000?style=for-the-badge&logo=html5&logoColor=FFEA93)
+![Sass](https://img.shields.io/badge/SASS%2FSCSS-D90000?style=for-the-badge&logo=sass&logoColor=FFEA93)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FFEA93?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-8DB355?style=for-the-badge&logo=typescript&logoColor=000000)
+![Angular](https://img.shields.io/badge/ANGULAR-D90000?style=for-the-badge&logo=angular&logoColor=FFEA93)
+![Git](https://img.shields.io/badge/GIT-FFEA93?style=for-the-badge&logo=git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFEA93)
+![Supabase](https://img.shields.io/badge/SUPABASE-8DB355?style=for-the-badge&logo=supabase&logoColor=000000)
+
+```
+┌──────────────────────────────────────────────┐
+  │ P2 SKILLS ▸ BACKEND [ UPCOMING LEVELS ]        │
+└──────────────────────────────────────────────┘
+```
+
+![Django](https://img.shields.io/badge/DJANGO-8DB355?style=for-the-badge&logo=django&logoColor=000000)
+![Node.js](https://img.shields.io/badge/NODE.JS-8DB355?style=for-the-badge&logo=node.js&logoColor=000000)
+![Docker](https://img.shields.io/badge/DOCKER-D90000?style=for-the-badge&logo=docker&logoColor=FFEA93)
+
+```
+┌──────────────────────────────────────────────┐
+  │    Cheating Area || AI Tools                   │
+└──────────────────────────────────────────────┘
+```
+![Claude](https://img.shields.io/badge/CLAUDE-CHEAT%20CODE-FFEA93?style=for-the-badge&logo=anthropic&logoColor=000000)
+
+[![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+
+```
+┌──────────────────────────────────────────────┐
+  │  HIGH SCORES ▸ FEATURED PROJECTS               │
+└──────────────────────────────────────────────┘
+```
+
+| 🕹️ PROJECT | 📼 STACK | 📝 BESCHREIBUNG |
+|---|---|---|
+| **[Join](https://github.com/Lehnerma)** | Angular / TS | Kanban-Board zur Aufgaben- und Projektorganisation. |
+| **[PollApp](https://github.com/Lehnerma)** | Angular | Umfrage-App zum Erstellen und Auswerten von Polls. |
+| **[Memory](https://github.com/Lehnerma)** | TypeScript | Klassisches Memory-Spiel, umgesetzt in TS. |
+| **[Pokedex](https://github.com/Lehnerma)** | JavaScript | Pokedex mit Live-Daten aus einer öffentlichen API. |
+
 </div>
 
-###
+<br>
 
+
+
+<br>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzaf.maurodesouzaf&"  />
+
+
+<br><br>
+
+`GAME OVER? NO — STILL PLAYING.` **[Contact me :)📮](mailto:dev@lm-lehner.at)**
+
 </div>
-
-###
-
-<h2 align="center">hey there 👋</h2>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Max from Austria:<br><br>- 🔭 I’m working as Medical Dispacher<br>- 📚 I'm currently learning Web Development <br>- ⚡ In my free time I love going biking programming some things</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzaf/maurodesouzaf/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzaf/maurodesouzaf/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzaf/maurodesouzaf/output/pacman-contribution-graph.svg">
-</picture>
-
-###
